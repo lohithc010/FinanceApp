@@ -1,5 +1,6 @@
 print('About Employee Details')
 print('---------------------------------')
+
 print(469259, type(469259))
 print('Employee Name : Lohith Chowdary',type('Employee Name : Lohith Chowdary'))
 print('Origination', type('Origination'))

@@ -7,3 +7,4 @@ print('''Name: {}
       ID:{}
       Base PAY:{}
       Total pay:{}''' .format(name,eid,base_pay, int(sum)))
+print("Hi")
