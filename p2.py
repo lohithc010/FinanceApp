@@ -3,6 +3,7 @@ print("Hi")
 print("LOL")
 print("To test step 4")
 print("To test step 5")
+print("To test step 6")
 
 '''
 THis is multiline comment

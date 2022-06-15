@@ -2,6 +2,7 @@ print('About Employee Details')
 print('---------------------------------')
 print("To test step 4")
 print("To test step 5")
+print("To test step 6")
 
 print(469259, type(469259))
 print('Employee Name : Lohith Chowdary',type('Employee Name : Lohith Chowdary'))

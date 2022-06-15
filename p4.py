@@ -10,3 +10,4 @@ print('''Name: {}
 print("Hi")
 print("To test step 4")
 print("To test step 5")
+print("To test step 6")
